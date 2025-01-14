@@ -32,7 +32,7 @@ After you have all the requirements in place, go to [Binder](https://notebooks.g
 
 You will be presented with the following page:
 
-[![Binder Page]](binder_interface.png)
+![Binder Configuration Page](binder_interface.png)
 
 On this page provide the following info:
   - Your GitHub url (1)
