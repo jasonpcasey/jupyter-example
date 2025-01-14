@@ -34,9 +34,9 @@ You will be presented with the following page:
 
 ![Binder Configuration Page](binder_interface.png)
 
-On this page provide the following info:
+Provide the following info:
   - Your GitHub url (1)
-  - The appropriate branch  *Usually, this is **main***. (2)
+  - The appropriate branch.  *Usually, this is **main***. (2)
   - The name of the notebook, which will provide a direct url to your work (3)
 
 After you've provided the appropriate info click Launch, which will create your python environment and render the notebook.  Once it is done, you may use the generated URL for your submission (4).  If you want to add a badge, as I've done above, copy from field 5 above and paste into README.md.
